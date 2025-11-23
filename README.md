@@ -16,7 +16,7 @@
 
 - 💬 Ask me about **HTML CSS JAVASCRIPT PYTHON**
 
-- ⚡ Legendary fact **I am a class 10 student having interest on web technologies.I entered programming world since I was in class 8**
+
 
 <h3 align="left">Connect with me:</h3>
 
