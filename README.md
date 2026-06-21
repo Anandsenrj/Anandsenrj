@@ -12,7 +12,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Anandsenrj](https://github.com/Anandsenrj)
 
-- 📝 I regularly write articles on [http://www.codersunion.ml/](http://www.codersunion.ml/)
+- 📝 My Portfolio Website [http://www.anandsenrj.me/](http://www.anandsenrj.me/)
 
 - 💬 Ask me about **HTML CSS JAVASCRIPT PYTHON**
 
