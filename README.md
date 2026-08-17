@@ -7,7 +7,7 @@
 <br>
 
 
-<pre>
+<!-- <pre>
   xxxxxxxxxxxxxxxxxX$&&&&&$XxxxxxxxxxxxxxxxXXXXxXX$$X$$$$$$$$$$$$&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 xxxxxxxxxxxxxxxxxX$$&&&&$XXxxxxxxxxxxxXXxXXXXXxX$$$$$$$$$$$$$$&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 xxxxxxxxxxxxxxxxxxxxxxXxxxxxxxxxxxxxxxxxxxxxxXXx$$$$$$$$$$$$$$$$$&&&&&&&&&&&&&&&&&&&&&&&&$&&&&&&&&&&&&&&&&&&
@@ -67,7 +67,7 @@ x&&&&&&&x;;;;:......:;;:::::xX&&$&;;xXXXX$$XXXXxx+;;+xxxxx$$XX$$XXXXx+..;+;;:::;
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&$xxxxxxxxxxx+;;;++xxX:;++xxxxxx$&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&$
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&$Xx;++xxxxxx++;;x$$&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&$$&Xxx
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&xxx$xxxx
-</pre>
+</pre> -->
 <br>
 <a href="https://anandsenrj.me">
 <img src="https://img.shields.io/badge/Portfolio-anandsenrj.me-58A6FF?style=for-the-badge&logo=googlechrome&logoColor=white">
